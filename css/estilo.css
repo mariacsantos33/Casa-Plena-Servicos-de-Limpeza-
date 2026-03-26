@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap" rel="stylesheet");
+@import url("https://fonts.googleapis.com/css2?family=Ysabeau+Infant:ital,wght@0,1..1000;1,1..1000&display=swap" rel="stylesheet");
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.div-1 {
+    background-color: 4F7483;
+    padding-bottom: 200px;
+
+}
+
+.title-1 {
+    padding-left: 100px;
+    padding-top: 50px;
+    font-family: 'Yeseva One';
+    font-size: 60px ;
+    text-shadow: 2px 4px 35px black;
+
+}
+
+
+.texto-fino {
+    font-family: 'Ysabeau Infant';
+    padding-left: 170px;
+    padding-top: 50px;
+    font-size: 25px ;
+    text-shadow: 2px 4px 20px black;
+}
+
+.texto-grosso {
+    padding-left: 700px;
+    padding-top: 50px;
+    font-family: 'Yeseva One';
+    font-size: 27px ;
+    font-weight: bold;
+}
+
+.botao-agendamento {
+    background-color: E6D3B3;
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-left: 100px;
+    margin-right: 900px;
+    padding-left: 20px;
+    border-radius: 50px;
+}
+
+.formulario {
+    background-color: E6D3B3;
+    height: 600px;
+    width: 400px;
+    margin-left: 700px;
+    margin-bottom: 200px;
+    margin-top: -150px;
+}
+
+.texto-fino-2 {
+    font-family: 'Ysabeau Infant';
+    padding-left: 10px;
+    padding-top: 50px;
+    font-size: 27px ;
+    text-align: center;
+}
+
+.texto-fino-3 {
+    font-family: 'Ysabeau Infant';
+    font-size: 25px;
+    padding-left: 30px;
+}
+
+.caixa {
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    padding-bottom: 20px;
+    padding-right: 50px;
+    padding-left: 70px;
+    margin-left: 40px;
+}
+
+.botao-agenda-2 {
+    background-color: 4F7483;
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 70px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 50px;
+}
+
+.texto-auxiliar-forms {
+
+}
+
+.texto-grosso-2 {
+    font-family: 'Yeseva One';
+    font-size: 35px ;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+
+
+
+    
+
